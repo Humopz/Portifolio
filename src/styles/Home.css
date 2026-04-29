@@ -72,12 +72,11 @@
   font-size: 1rem;
 }
 
-/* --- BOTÃO DE VOLTAR --- */
 .btn-voltar {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  background: var(--bg-card); /* Fundo sutil */
+  background: var(--bg-card); 
   border: 1px solid var(--border-color);
   color: var(--text-highlight);
   padding: 10px 18px;
@@ -93,14 +92,13 @@
   background-color: var(--accent-soft);
   border-color: var(--accent-color);
   color: var(--accent-color);
-  transform: translateX(-3px); /* Efeito de movimento para a esquerda */
+  transform: translateX(-3px);
 }
 
-/* --- BANNER DO PROJETO (Página de Detalhes) --- */
 .img-projeto {
   width: 100%;
-  max-height: 400px; /* Altere este valor para aumentar ou diminuir o banner */
-  object-fit: cover; /* Garante que a imagem preencha o espaço sem esticar */
+  max-height: 400px; 
+  object-fit: cover; 
   object-position: center;
   border-radius: 16px;
   border: 1px solid var(--border-color);
@@ -109,9 +107,8 @@
   display: block;
 }
 
-/* --- ESTILO DO CONTEÚDO NO PROJETO --- */
 .projeto-detalhe-container {
-  text-align: left; /* Alinhamento à esquerda fica mais profissional */
+  text-align: left;
   padding: 20px 0;
 }
 
