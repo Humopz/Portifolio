@@ -1,8 +1,8 @@
 import proj1 from "../assets/proj1.png";
-import proj2 from "../assets/proj1.png";
-import proj3 from "../assets/proj1.png";
-import proj4 from "../assets/proj1.png";
-import proj5 from "../assets/proj1.png";
+import proj2 from "../assets/proj2.png";
+import proj3 from "../assets/proj3.png";
+import proj4 from "../assets/proj4.png";
+import proj5 from "../assets/proj5.png";
 
 const projetos = [
   {
@@ -23,33 +23,33 @@ const projetos = [
     github: "https://github.com/Humopz/TeraLink-Front",
     deploy: "https://tera-link-front.vercel.app/",
     imagem: proj2,
-    participacao: "Criação da interface e integração com autenticação."
+    participacao: "Desenvolvimento do front-end."
   },
   {
     id: 3,
     nome: "PataClinic",
-    descricao: "Aplicação de cálculos básicos.",
+    descricao: "Projeto Castração para Hospitais Públicos Veterinários .",
     tecnologias: ["JavaScript", "HTML", "CSS"],
     github: "https://github.com/Humopz/PI-PataClinic_3DSM",
     deploy: "https://pet-clinic-chi.vercel.app/",
     imagem: proj3,
-    participacao: "Lógica completa e interface."
+    participacao: "Desenvolvedor Front-end."
   },
   {
     id: 4,
     nome: "ECOmida",
-    descricao: "Lista de tarefas com armazenamento.",
-    tecnologias: ["Node.js, JavaScript, css, Git"],
+    descricao: "Sistema de gestão financeira.",
+    tecnologias: ["Node.js", "Flask", "JavaScript", "css", "MongoDb"],
     github: "https://github.com/Humopz/projeto-integrador-4-semestre",
     deploy: "https://pi-ecomida4dsm.vercel.app/",
     imagem: proj4,
-    participacao: "Gerenciamento de estado."
+    participacao: "Design, Layout, Desenvolvedor front end."
   },
   {
     id: 5,
     nome: "GeFi",
-    descricao: "Página institucional responsiva.",
-    tecnologias: ["HTML", "CSS"],
+    descricao: "Aplicativo mobile de gestão financeira .",
+    tecnologias: ["React native", "expo", "css", "JavaScript"],
     github: "https://github.com/Humopz/PI-Gefi-5DSM",
     deploy: "https://frontend-gefi-5-dsm.vercel.app/",
     imagem: proj5,
