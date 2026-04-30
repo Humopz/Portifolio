@@ -18,7 +18,7 @@ const projetos = [
   {
     id: 2,
     nome: "TeraLink",
-    descricao: "Sistema com autenticação de usuários.",
+    descricao: "Sistema para que terapeutas possam prestar seus servivos.",
     tecnologias: ["React", "Firebase"],
     github: "https://github.com/Humopz/TeraLink-Front",
     deploy: "https://tera-link-front.vercel.app/",
@@ -38,7 +38,7 @@ const projetos = [
   {
     id: 4,
     nome: "ECOmida",
-    descricao: "Sistema de gestão financeira.",
+    descricao: "Site de receitas saudáveis.",
     tecnologias: ["Node.js", "Flask", "JavaScript", "css", "MongoDb"],
     github: "https://github.com/Humopz/projeto-integrador-4-semestre",
     deploy: "https://pi-ecomida4dsm.vercel.app/",
