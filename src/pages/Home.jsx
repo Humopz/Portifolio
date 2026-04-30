@@ -1,5 +1,5 @@
 import { useState } from "react";
-import projetos from "../data/projetos";
+import projetos from "../data/Projetos";
 import CardProjeto from "../components/CardProjeto";
 import "../styles/Home.css";
 import foto from "../assets/Foto.png";
