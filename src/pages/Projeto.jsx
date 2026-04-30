@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from "react-router-dom";
-import projetos from "../data/projetos";
+import projetos from "../data/Projetos";
 import "../styles/Home.css";
 
 function Projeto({ dark, setDark }) {
